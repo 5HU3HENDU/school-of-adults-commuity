@@ -19,6 +19,7 @@ pg = st.navigation(
 		"Content": [],
 		"Fashion": [],
 		"Life Skills": [],
+		"Life Events": [],
 		"Tech Management": [],
 		"Legal": []
 		
