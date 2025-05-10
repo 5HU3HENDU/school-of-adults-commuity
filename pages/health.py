@@ -1,3 +1,5 @@
 import streamlit as st
 
-st.title("Health | School of Adults")
+st.title(":dna: Health | SofA")
+
+st.header("Health")
