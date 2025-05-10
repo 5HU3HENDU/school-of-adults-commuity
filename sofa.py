@@ -11,7 +11,7 @@ pg = st.navigation(
 		"Home": [homepage], 
 		"Health": [food, exercise, body_parts, health_checkup, mental_health ],
 		"Wealth": [earn, stocks, mutual_fund, insurance, spend, track],
-		"Career": [find_job, career_ladder, resignation],
+		"Career": [choose, find_job, career_ladder, resignation],
 		"Home Management": [kitchen, bedroom, living_room, bathroom, garden],
 		"People Management": [self, family, parent, kids, partner, friends, enemy, office],
 		"Pets": [cats, dogs],
