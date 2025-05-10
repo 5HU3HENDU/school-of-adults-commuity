@@ -9,7 +9,19 @@ health = st.Page("pages/health.py")
 pg = st.navigation(
 	{
 		"Home": [homepage],
-		"Health":[health]
+		"Health": [health],
+		"Wealth": [],
+		"Career": [],
+		"Home Management: [],
+		"People Management": [],
+		"Pets": [],
+		"Travel: [],
+		"Content": [],
+		"Fashion": [],
+		"Life Skills": [],
+		"Tech Management": [],
+		"Legal": []
+		
         }
     )
 
