@@ -1,12 +1,12 @@
 import streamlit as st
 
-home = st.Page("pages/home.py", title="Bombay Analytics", icon="🌉", default = True)
+homepage = st.Page("pages/homepage.py", title="School Of Adults", icon="🌉", default = True)
 
 
 
 pg = st.navigation(
 	{
-            "Home": [home]
+            "Home": [homepage]
         }
     )
 
