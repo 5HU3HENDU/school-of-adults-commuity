@@ -70,14 +70,14 @@ pg = st.navigation(
 		"Wealth": [earn,stocks,mf,insurance,spend,track],
 		"Career": [choose,job,ladder,resignation],
 		"Home Management": [kitchen,bedroom,living_room,bathroom,garden],
-		"People Management": [self,parents,partner,kids,friends,relatives,office,enemy],
+		"People": [self,parents,partner,kids,friends,relatives,office,enemy],
 		"Pets": [cats,dogs],
 		"Travel": [place,stay,flight,train,bus,cab,itinerary,things_to_carry],
 		"Content": [news,movies,songs,books],
 		"Fashion": [men,women],
 		"Life Skills": [driving,swimming,problem_solving],
 		"Life Events": [buying_home,marriage,pregnancy,new_city],
-		"Tech Management": [mobile,tv,earphone,power_bank],
+		"Tech": [mobile,tv,earphone,power_bank],
 		"Legal": [basic]
 		
         }
