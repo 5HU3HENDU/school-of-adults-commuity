@@ -65,11 +65,11 @@ basic = st.Page('pages/legal_basic.py', title = 'Basic')
 
 pg = st.navigation(
 	{
-		"Home": [homepage], 
+		"About": [homepage], 
 		"Health": [food,exercise,body_parts,check,mental,periods],
 		"Wealth": [earn,stocks,mf,insurance,spend,track],
 		"Career": [choose,job,ladder,resignation],
-		"Home Management": [kitchen,bedroom,living_room,bathroom,garden],
+		"Home": [kitchen,bedroom,living_room,bathroom,garden],
 		"People": [self,parents,partner,kids,friends,relatives,office,enemy],
 		"Pets": [cats,dogs],
 		"Travel": [place,stay,flight,train,bus,cab,itinerary,things_to_carry],
