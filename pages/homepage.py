@@ -4,7 +4,9 @@ st.set_page_config(
     page_title="School Of Adults",
     page_icon=":school:",
     layout="wide",
-    initial_sidebar_state="expanded"    
+    initial_sidebar_state="auto"    
 )
 
-st.header("haha School Of Adults")
+st.title(":school: SofA")
+
+st.header("School Of Adults")
