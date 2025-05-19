@@ -37,4 +37,4 @@ st.code("""SofA = Quality People
         """)
 
 
-st.write(st.__version__)
+# st.write(st.__version__)
