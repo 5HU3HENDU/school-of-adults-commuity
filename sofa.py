@@ -20,7 +20,7 @@ pg = st.navigation(
             st.Page('pages/wealth_earn.py', title = 'Earning Money', icon = '🪙'),
             st.Page('pages/wealth_stocks.py', title = 'Stocks', icon = '💹'),
             st.Page('pages/wealth_mf.py', title = 'Mutual Fund', icon = '💰'),
-            st.Page('pages/wealth_insurance.py', title = 'Insurance', icon = 'ℹ️'),
+            st.Page('pages/wealth_insurance.py', title = 'Insurance', icon = '🧿'),
             st.Page('pages/wealth_spend.py', title = 'Spending Money', icon = '💸'),
             st.Page('pages/wealth_track.py', title = 'Tracking Spends', icon = '📊')
     
@@ -45,7 +45,7 @@ pg = st.navigation(
             st.Page('pages/people_kids.py', title = 'Kids', icon = '🧒'),
             st.Page('pages/people_friends.py', title = 'Friends', icon = '🫂'),
             st.Page('pages/people_relatives.py', title = 'Relatives', icon = '🌳'),
-            st.Page('pages/people_office.py', title = 'colleagues', icon = '🏢'),
+            st.Page('pages/people_office.py', title = 'Colleagues', icon = '🏢'),
             st.Page('pages/people_enemy.py', title = 'Enemies', icon = '🥷')
             
         ],
@@ -62,7 +62,7 @@ pg = st.navigation(
             st.Page('pages/travel_bus.py', title = 'Bus', icon = '🚌'),
             st.Page('pages/travel_cab.py', title = 'Cab', icon = '🚕'),
             st.Page('pages/travel_itinerary.py', title = 'Itinerary', icon = '📋'),
-            st.Page('pages/travel_things_to_carry.py', title = 'Things to Carry', icon = '✅')
+            st.Page('pages/travel_things_to_carry.py', title = 'Things to Carry', icon = '🧳')
             
         ],
 		"Content": [
