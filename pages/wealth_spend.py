@@ -4,7 +4,7 @@ st.set_page_config(
     layout="wide"   
 )
 
-st.title("💸 Spending & Tracking")
+st.title("📊 Spending & Tracking")
 
 st.divider()
 
