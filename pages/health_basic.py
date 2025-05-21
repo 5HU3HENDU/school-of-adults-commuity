@@ -21,6 +21,12 @@ st.header("Medical Help")
 - [Talk to a doctor - online](https://www.apollo247.com/specialties)
 """
 
+st.header("Health Insurance")
+"""
+- [Ditto Insurance](https://joinditto.in/)
+- [Beshak Insurance](https://www.beshak.org/)
+"""
+
 st.header("Early Health Signs to Watch Out For")
 """
 - Unexplained weight loss or gain
