@@ -1,3 +1,13 @@
 import streamlit as st
 
-st.title("Health Check-Up | SofA")
+st.set_page_config(
+    layout="wide"   
+)
+
+st.title("🩺 Check Up")
+
+st.divider()
+
+"""
+- Frequent health chek-ups are mandatory.
+"""
