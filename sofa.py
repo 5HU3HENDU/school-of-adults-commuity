@@ -21,7 +21,7 @@ pg = st.navigation(
             st.Page('pages/wealth_create.py', title = 'Generating Wealth', icon = '🪙'),
             st.Page('pages/wealth_invest.py', title = 'Investing', icon = '💹'),
             st.Page('pages/wealth_insurance.py', title = 'Insurance & Tax', icon = '🧿'),
-            st.Page('pages/wealth_spend.py', title = 'Spending, Tracking & Planning', icon = '📊'),
+            st.Page('pages/wealth_spend.py', title = 'Spending & Tracking', icon = '📊'),
             st.Page('pages/wealth_loans.py', title = 'Credit Cards & Loans', icon = '💳')
     
         ],
