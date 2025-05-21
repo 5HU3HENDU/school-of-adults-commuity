@@ -18,12 +18,11 @@ pg = st.navigation(
             st.Page('pages/health_periods.py', title = 'Periods', icon = '🗓️')
         ],
 		"Wealth": [
-            st.Page('pages/wealth_earn.py', title = 'Earning Money', icon = '🪙'),
-            st.Page('pages/wealth_stocks.py', title = 'Stocks', icon = '💹'),
-            st.Page('pages/wealth_mf.py', title = 'Mutual Fund', icon = '💰'),
-            st.Page('pages/wealth_insurance.py', title = 'Insurance', icon = '🧿'),
-            st.Page('pages/wealth_spend.py', title = 'Spending Money', icon = '💸'),
-            st.Page('pages/wealth_track.py', title = 'Tracking Spends', icon = '📊')
+            st.Page('pages/wealth_create.py', title = 'Generating Wealth', icon = '🪙'),
+            st.Page('pages/wealth_invest.py', title = 'Investing', icon = '💹'),
+            st.Page('pages/wealth_insurance.py', title = 'Insurance & Tax', icon = '🧿'),
+            st.Page('pages/wealth_spend.py', title = 'Spending, Tracking & Planning', icon = '📊'),
+            st.Page('pages/wealth_loans.py', title = 'Credit Cards & Loans', icon = '💳')
     
         ],
 		"Career": [
