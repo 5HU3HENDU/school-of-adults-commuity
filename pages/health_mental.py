@@ -1,3 +1,17 @@
 import streamlit as st
 
-st.title("Mental Health | SofA")
+st.set_page_config(
+    layout="wide"   
+)
+
+st.title("🧠 Mental Health")
+
+st.divider()
+
+"""
+- Digital Detox
+- Meditation
+- Hobbies
+- Art of Relaxing
+- [Lotus Therapist](https://lotustherapist.com/)
+"""
