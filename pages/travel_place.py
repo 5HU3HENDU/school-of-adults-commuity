@@ -1,3 +1,9 @@
 import streamlit as st
 
-st.title("Place | SofA")
+st.set_page_config(
+    layout="wide"   
+)
+
+st.title("🏖️ Places")
+
+st.divider()
