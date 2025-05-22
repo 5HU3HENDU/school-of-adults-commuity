@@ -1,5 +1,14 @@
 import streamlit as st
 
-st.title(":dna: Health | SofA")
+st.set_page_config(
+    layout="wide"   
+)
 
-st.header("Health")
+st.title("🚕 Cab")
+
+st.divider()
+
+st.header("City Wise")
+"""
+- [Goa](https://www.goamiles.com/)
+"""
