@@ -13,7 +13,7 @@ st.header("Vet Shops Near Me")
 - [Vet Shops](https://www.google.com/maps/search/Vet+Shops+Near+Me)
 """
 
-st.header("Best Food Brands")
+st.header("Best Cat Food Brands")
 """
 - [Royal Canin](https://www.royalcanin.com/in/cats/products/retail-products)
 - [Purina Pro Plan](https://www.purina.in/cat/cat-food)
