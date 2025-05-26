@@ -35,6 +35,26 @@ st.header("Grooming Brands")
 - [Beaphar](https://www.beaphar.com/cat)
 """
 
+st.header("Grooming Tips")
+
+st.subheader("Brushing")
+"""
+- Short-hair: once a week
+- Long-haired: 3-4 times a week (to prevent tangling and matting)
+"""
+
+st.subheader("Litter cleaning")
+"""
+- Scoop daily
+- Change litter every 2-3 weeks.
+"""
+
+st.subheader("Regular cleaning")
+"""
+- Clean food tray and water bowl daily.
+- Vacuum regularly or use lint roller to control shedding.
+"""
+
 st.header("Online Stores")
 """
 - [PetsWorld](https://petsworld.in/collections/cats)
