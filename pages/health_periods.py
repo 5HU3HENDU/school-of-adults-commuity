@@ -4,7 +4,7 @@ st.set_page_config(
     layout="wide"   
 )
 
-st.title("♀️Periods | SofA")
+st.title("🗓️ Periods | SofA")
 
 st.divider()
 
