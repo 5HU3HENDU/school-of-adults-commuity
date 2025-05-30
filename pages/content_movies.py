@@ -11,3 +11,9 @@ st.header("Movies & TV Series")
 - [Streaming Services in One Place](https://reelgood.com/)
 """
 
+st.header("Watch Together")
+
+"""
+- [Watch with your loved ones](https://w2g.tv/en/)
+
+"""
