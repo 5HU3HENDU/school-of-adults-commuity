@@ -5,7 +5,7 @@ st.title("♀️For Women | SofA")
 st.divider()
 
 """
-- [Personal Fashion Assistant](https://heyalle.com/)
+- [Your Personal Fashion Assistant](https://heyalle.com/)
 
 """
 
