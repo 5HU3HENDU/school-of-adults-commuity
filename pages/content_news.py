@@ -4,6 +4,25 @@ st.title("📰 News | SofA")
 
 st.divider()
 
+st.header("Headlines and Current Events")
+"""
+Copy and paste/edit the below prompt into [Google Gemini](https://gemini.google.com/) for today's news :-
+
+"""
+
+st.code("""
+Give me all
+technology,
+business,
+science,
+finance,
+real estate,
+travel and related news and current events
+across the world as well as India, section wise
+for today
+""")
+
+
 st.header("General")
 """
 - [News Minimalist](https://www.newsminimalist.com/)
