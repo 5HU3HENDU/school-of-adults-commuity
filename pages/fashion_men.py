@@ -6,7 +6,6 @@ st.divider()
 
 """
 - [Your Personal Fashion Assistant](https://heyalle.com/)
-
 """
 
 st.header("Fashion Hacks")
@@ -18,7 +17,6 @@ st.header("Fashion Hacks")
 - Match your belt and shoes to enhance your looks.
 - Use baby wipes to remove deodorant stains before heading out.
 - Double-sided tapes can fix gaping in the shirt.
-
 """
 
 st.header("Closet and Visual Planning")
@@ -28,16 +26,14 @@ st.header("Closet and Visual Planning")
 
 """
 
-
 st.header("Custom-Made Clothing")
-
 """
 - [Bombay Shirt Company](https://www.bombayshirts.com/)
 - [DaMENSCH](https://www.damensch.com/men/)
 - [Andamen](https://www.andamen.com/collections/shop-all-andamen?filter.v.availability=1)
 - [Herringbone and Sui](https://herringboneandsui.com/)
-
 """
+
 st.header("Shopping and Styling")
 
 """
