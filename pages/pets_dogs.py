@@ -24,6 +24,14 @@ st.header("Best Dog Food Brands")
 - [Drools](https://drools.com/for-dogs/)
 """
 
+st.header("Grooming Tips")
+"""
+- Clean food tray and water bowl daily.
+- Take your dogs for a walk frequently.
+- Maintain a regular feeding time.
+- Vacuum regularly or use roller to control shedding.
+"""
+
 st.header("Grooming Brands")
 """
 - [HUFT](https://headsupfortails.com/?srsltid=AfmBOoo3Tte9oS6bKi_OFWinaKX3yQmT4YMixnsQml5rNklzYalHUnoU)
