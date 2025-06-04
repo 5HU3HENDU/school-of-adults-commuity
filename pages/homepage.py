@@ -122,3 +122,19 @@ st.markdown("""
 </style>
 
 """, unsafe_allow_html = True)
+
+
+js = """
+<script>
+const elements = document.querySelectorAll('.mylink');
+
+elements.forEach(element => {
+  element.style.textDecoration = 'none';
+});
+</script>
+
+
+"""
+
+
+st.components.v1.html(js)
