@@ -46,23 +46,23 @@ st.code("""SofA = Quality People
 
 # Sample data: A list of strings
 data = [
-    "<a href='https://schoolofadults.com/health_food' class='mylink'>🍱 Food, Water and Air</a>",
-    "<a href='https://schoolofadults.com/health_exercise' class='mylink'>🧘 Exercise and Fitness</a>",
-    "<a href='https://schoolofadults.com/health_check' class='mylink'>🩺 Check Up</a>",
-    "<a href='https://schoolofadults.com/health_mental' class='mylink'>🧠 Mental Health</a>",
-    "<a href='https://schoolofadults.com/health_periods' class='mylink'>🗓️ Periods</a>",
-    "<a href='https://schoolofadults.com/wealth_create' class='mylink'>🪙 Generating Wealth</a>",
-    "<a href='https://schoolofadults.com/wealth_invest' class='mylink'>💹 Investing</a>",
-    "<a href='https://schoolofadults.com/wealth_insurance' class='mylink'>🧿 Insurance & Tax</a>",
-    "<a href='https://schoolofadults.com/wealth_spend' class='mylink'>📊 Spending & Tracking</a>",
-    "<a href='https://schoolofadults.com/wealth_loans' class='mylink'>💳 Credit Card and Loans</a>",
-    "<a href='https://schoolofadults.com/career_choose' class='mylink'>🎓Choosing career</a>",
-    "<a href='https://schoolofadults.com/career_job' class='mylink'>💼 Finding Jobs | SofA</a>",
-    "<a href='https://schoolofadults.com/career_ladder' class='mylink'>🪜Career Ladder | SofA</a>",
-    "<a href='https://schoolofadults.com/career_resignation' class='mylink'>Resignation</a>",
-    "<a href='https://schoolofadults.com/home_garden' class='mylink'>🌱Garden</a>",
-    "<a href='https://schoolofadults.com/pets_cats' class='mylink'>🐱Cats</a>",
-    "<a href='https://schoolofadults.com/pets_dogs' class='mylink'>🐶Dogs</a>",
+    "<a href='https://schoolofadults.com/health_food' class='mylink' style='text-decoration: none;'>🍱 Food, Water and Air</a>",
+    "<a href='https://schoolofadults.com/health_exercise' class='mylink' style='text-decoration: none;'>🧘 Exercise and Fitness</a>",
+    "<a href='https://schoolofadults.com/health_check' class='mylink' style='text-decoration: none;'>🩺 Check Up</a>",
+    "<a href='https://schoolofadults.com/health_mental' class='mylink' style='text-decoration: none;'>🧠 Mental Health</a>",
+    "<a href='https://schoolofadults.com/health_periods' class='mylink' style='text-decoration: none;'>🗓️ Periods</a>",
+    "<a href='https://schoolofadults.com/wealth_create' class='mylink' style='text-decoration: none;'>🪙 Generating Wealth</a>",
+    "<a href='https://schoolofadults.com/wealth_invest' class='mylink' style='text-decoration: none;'>💹 Investing</a>",
+    "<a href='https://schoolofadults.com/wealth_insurance' class='mylink' style='text-decoration: none;'>🧿 Insurance & Tax</a>",
+    "<a href='https://schoolofadults.com/wealth_spend' class='mylink' style='text-decoration: none;'>📊 Spending & Tracking</a>",
+    "<a href='https://schoolofadults.com/wealth_loans' class='mylink' style='text-decoration: none;'>💳 Credit Card and Loans</a>",
+    "<a href='https://schoolofadults.com/career_choose' class='mylink' style='text-decoration: none;'>🎓Choosing career</a>",
+    "<a href='https://schoolofadults.com/career_job' class='mylink' style='text-decoration: none;'>💼 Finding Jobs | SofA</a>",
+    "<a href='https://schoolofadults.com/career_ladder' class='mylink' style='text-decoration: none;'>🪜Career Ladder | SofA</a>",
+    "<a href='https://schoolofadults.com/career_resignation' class='mylink' style='text-decoration: none;'>Resignation</a>",
+    "<a href='https://schoolofadults.com/home_garden' class='mylink' style='text-decoration: none;'>🌱Garden</a>",
+    "<a href='https://schoolofadults.com/pets_cats' class='mylink' style='text-decoration: none;'>🐱Cats</a>",
+    "<a href='https://schoolofadults.com/pets_dogs' class='mylink' style='text-decoration: none;'>🐶Dogs</a>",
     "<a href='' class='mylink'></a>"
 
 
@@ -123,18 +123,3 @@ st.markdown("""
 
 """, unsafe_allow_html = True)
 
-
-js = """
-<script>
-const elements = document.querySelectorAll('.mylink');
-
-elements.forEach(element => {
-  element.style.textDecoration = 'none';
-});
-</script>
-
-
-"""
-
-
-st.components.v1.html(js)
