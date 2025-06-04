@@ -79,13 +79,11 @@ else:
     filtered_data = data  # Show all data if no query is entered
 
 # Display the filtered results
-st.subheader("Filtered Results:")
+st.subheader("Topics:")
 if filtered_data:
-    with st.container(key="result"):
-        st.markdown(' '.join(filtered_data), unsafe_allow_html = True)
+      st.markdown(' '.join(filtered_data), unsafe_allow_html = True)
 else:
-    with st.container(key="result"):
-        st.write("No results found.")
+      st.write("No topics found.")
 
 
 
