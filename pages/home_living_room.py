@@ -12,7 +12,7 @@ st.header("Room Planner")
 - [IKEA Kreativ](https://www.ikea.com/in/en/planners/design-your-dream-home-pub66945dd9/#0846f8c0-b20d-11eb-8bb5-a73a5787c6e2)
 """
 
-st.header(" House Services")
+st.header("House Services")
 """
 - [Urban Company](https://www.urbancompany.com/)
 - [Guidance for perfect lighting](https://www.wiproconsumerlighting.com/custom-lighting-journey)
@@ -22,6 +22,7 @@ st.header("Stores")
 """
 - [IKEA](https://www.ikea.com/in/en/rooms/living-room/gallery/a-modern-living-room-bursting-with-life-pubceb77530/)
 - [Urban Ladder](https://www.urbanladder.com/seating?src=g_topnav_living_seating)
+- [Pepperfry](https://www.pepperfry.com/discover/living-room-furniture.html?srsltid=AfmBOorblfn5pKFwUg74fEdn2ToIBiK4hfM4iaOUHRb_lmTizqM-UxDA)
 """
 
 st.subheader("Budget Furniture")
