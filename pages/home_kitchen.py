@@ -10,7 +10,7 @@ st.divider()
 st.header("Must-haves")
 """
 - Pressure cooker, Kadhai, tava, saucepan
-- Big knife, Small knife, vegatable peeler, Chooping board
+- Big knife, Small knife, vegetable peeler, Chopping board
 - Spoons, Tongs, Ladles
 - Mixer-Grinder, Mortar and pestle, Mixing bowl
 - Transparent Storage containers with labels on them.
