@@ -14,6 +14,7 @@ st.header("Consult a Lawyer")
 - [vakilsearch](https://vakilsearch.com/)
 - [Legalkart](https://www.legalkart.com/)
 - [MyAdvo](https://www.myadvo.in/)
+- [Rest The Case](https://restthecase.com/)
 
 """
 
