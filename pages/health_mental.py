@@ -15,3 +15,9 @@ st.divider()
 - Art of Relaxing
 - [Lotus Therapist](https://lotustherapist.com/)
 """
+
+st.header("Need Help?")
+"""
+- [Here to help](https://learn.appleservices.apple/here-to-help-en-in)
+
+"""
