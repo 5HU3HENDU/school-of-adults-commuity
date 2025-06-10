@@ -59,6 +59,7 @@ st.header("Job Websites")
 - [AmbitionBox](https://www.ambitionbox.com/jobs)
 - [apna.co](https://apna.co/)
 - [Uplers](https://www.uplers.com/talent/)
+- [Hiring Cafe](https://hiring.cafe/)
 """
 
 st.header("Remote Jobs")
