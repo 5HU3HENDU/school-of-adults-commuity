@@ -60,6 +60,7 @@ st.header("Job Websites")
 - [apna.co](https://apna.co/)
 - [Uplers](https://www.uplers.com/talent/)
 - [Hiring Cafe](https://hiring.cafe/)
+- [Weekday](https://jobs.weekday.works/?jobsTab=search)
 """
 
 st.header("Remote Jobs")
