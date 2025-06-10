@@ -10,6 +10,8 @@ st.divider()
 
 """
 - [Book Flights](https://www.ixigo.com/flights)
+- [Airport SuperApp Kind of](https://www.adanione.com/)
+
 """
 
 st.header("Things to avoid")
