@@ -16,8 +16,9 @@ st.divider()
 - [Lotus Therapist](https://lotustherapist.com/)
 """
 
-st.header("Need Help?")
+st.header("Helpful Resources")
 """
 - [Here to help](https://learn.appleservices.apple/here-to-help-en-in)
+- [MPower](https://mpowerminds.com/)
 
 """
