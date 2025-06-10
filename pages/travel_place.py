@@ -6,7 +6,7 @@ st.set_page_config(
 
 st.title("🏖️ Places")
 """
-Place specific informations
+Place specific information
 """
 
 st.divider()
