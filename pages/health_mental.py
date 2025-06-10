@@ -22,4 +22,5 @@ st.header("Helpful Resources")
 - [MPower](https://mpowerminds.com/)
 - [Lotus Therapist](https://lotustherapist.com/)
 - [Stutz](https://g.co/kgs/ctjv2Dn)
+- [NIMHANS](https://www.nimhans.ac.in/)
 """
