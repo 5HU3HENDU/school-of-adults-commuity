@@ -17,6 +17,7 @@ st.header("Booking Ticket")
 st.header("Tracking")
 """
 - [Train Status](https://www.google.com/search?q=Train+Status)
+- [National Train Enquiry System](https://enquiry.indianrail.gov.in/mntes/)
 """
 
 st.header("Food Inside Train")
