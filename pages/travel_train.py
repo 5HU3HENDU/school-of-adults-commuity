@@ -22,6 +22,7 @@ st.header("Tracking")
 
 st.header("Food Inside Train")
 """
+- [Menu](https://menurates.irctc.co.in/)
 - [Zoop](https://www.zoopindia.com/)
 """
 
