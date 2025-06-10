@@ -4,6 +4,14 @@ st.title("🍿Movies | SofA")
 
 st.divider()
 
+st.header("Book Movie Tickets")
+"""
+- [Zomato District](https://www.district.in/movies/)
+- Book My Show
+- [PVR Chatbot](https://wa.me/918800989898)
+
+"""
+
 st.header("Movies & TV Series")
 """
 - [Movies released in India](https://letterboxd.com/films/popular/this/month/year/2024/country/india/)
