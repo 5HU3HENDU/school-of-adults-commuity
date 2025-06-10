@@ -26,6 +26,7 @@ st.header("Stocks")
 - [Screener](https://screener.in/)
 - [Tijori](https://www.tijorifinance.com/)
 - [All stocks](https://dhan.co/all-stocks-list/)
+- [Market Research](https://www.futuremarketinsights.com/)
 """
 
 st.header("IPOs")
