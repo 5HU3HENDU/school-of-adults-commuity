@@ -25,6 +25,7 @@ st.header("Stocks")
 - [Smallcase](https://www.smallcase.com/)
 - [Screener](https://screener.in/)
 - [Tijori](https://www.tijorifinance.com/)
+- [All stocks](https://dhan.co/all-stocks-list/)
 """
 
 st.header("IPOs")
