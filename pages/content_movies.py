@@ -11,6 +11,15 @@ st.header("Movies & TV Series")
 - [Streaming Services in One Place](https://reelgood.com/)
 """
 
+st.header("Watchlist")
+"""
+You can google any tv series or movies and then add them to your watchlist.
+
+Later you can search [My watchlist](https://www.google.com/search?q=my+watchlist") to see the list.
+
+You can use the same thing for marking them as "already watched".
+"""
+
 st.header("Watch Together")
 
 """
