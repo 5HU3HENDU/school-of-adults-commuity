@@ -61,6 +61,7 @@ st.header("Job Websites")
 - [Uplers](https://www.uplers.com/talent/)
 - [Hiring Cafe](https://hiring.cafe/)
 - [Weekday](https://jobs.weekday.works/?jobsTab=search)
+- [Titan Job Network](https://whatsapp.com/channel/0029Vaz8Y9f4tRrjYSmy1Y0o)
 """
 
 st.header("Remote Jobs")
