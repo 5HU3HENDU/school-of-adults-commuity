@@ -25,6 +25,11 @@ st.header("Best Cat Food Brands")
 - [Drools](https://drools.com/for-cats/)
 - [Kitty Yum](https://kittyyums.com/products/)
 """
+st.header("Eating habits")
+"""
+- Create a regular feeding schedule and stick to it, as cats love to follow routine.
+- Cats are majorly dehydrated. To overcome this, wet food mixed with water and fresh water in a clean bowl can resolve this issue.
+"""
 
 st.header("Grooming Brands")
 """
