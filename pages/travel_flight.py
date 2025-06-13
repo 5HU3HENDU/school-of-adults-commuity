@@ -17,5 +17,5 @@ st.divider()
 st.header("Things to avoid")
 """
 - Do not buy tickets and book hotels before having the visa.
-
+- Store your boarding pass on [Digiyatra](https://digiyatrafoundation.com/) for smooth airport entry to boarding gates. It keeps track of all your flight tickets too.
 """
