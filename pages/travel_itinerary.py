@@ -27,7 +27,7 @@ st.header("Train vs Flight")
 - If money is not a concern, then obviously flight is the preferred choice.
 """
 
-st.header("Travel Packags")
+st.header("Travel Packages")
 """
 - [IRCTC Tourism](https://www.irctctourism.com/)
 - [YHA](https://www.yhaindia.org/)
