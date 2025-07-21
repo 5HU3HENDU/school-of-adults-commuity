@@ -14,6 +14,7 @@ st.header("Basics")
 - [Track Flight](https://www.ixigo.com/flight-status)
 - [Flight Seat Map](https://www.seatguru.com/findseatmap/findseatmap.php)
 - [Airport Services](https://www.adanione.com/)
+- [Aviation Safety Database](https://asn.flightsafety.org/asndb/types/DB)
 """
 
 st.header("Things to avoid")
