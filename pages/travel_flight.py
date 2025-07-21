@@ -8,9 +8,12 @@ st.title("✈️ Flight")
 
 st.divider()
 
+st.header("Basics")
 """
 - [Book Flights](https://www.ixigo.com/flights)
-- [Airport SuperApp Kind of](https://www.adanione.com/)
+- [Track Flight](https://www.ixigo.com/flight-status)
+- [Flight Seat Map](https://www.seatguru.com/findseatmap/findseatmap.php)
+- [Airport Services](https://www.adanione.com/)
 """
 
 st.header("Things to avoid")
