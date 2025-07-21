@@ -31,6 +31,12 @@ st.header("Lending Money")
 - If you still want to help, help them get a loan.
 """
 
+st.header("Split Bills")
+"""
+- [Create a group in Google Pay](https://support.google.com/pay/india/answer/11420982?hl=en)
+- And use it for tracking and splitting all the bills
+"""
+
 st.header("Financial Planning")
 """
 - [Financial Planning Platform](https://1finance.co.in/)
