@@ -22,6 +22,10 @@ across the world as well as India, section wise
 for today
 """)
 
+st.header("Understanding Fake News")
+"""
+- [Play the Fake News Game](https://www.getbadnews.com/en/play)
+"""
 
 st.header("General")
 """
