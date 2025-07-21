@@ -13,7 +13,7 @@ st.header("Basics")
 - [Book Flights](https://www.ixigo.com/flights)
 - [Track Flight](https://www.ixigo.com/flight-status)
 - [Flight Seat Map](https://www.seatguru.com/findseatmap/findseatmap.php)
-- [Airport Services](https://www.adanione.com/)
+- [Airport Services](https://www.adanione.com/services)
 - [Aviation Safety Database](https://asn.flightsafety.org/asndb/types/DB)
 """
 
