@@ -8,6 +8,45 @@ st.title("💼 Finding Jobs | SofA")
 
 st.divider()
 
+st.header("Job Search Tool")
+
+txt = st.text_input(label="Job Title or Keyword")
+d = st.date_input(label="Job Posted After (Optional)", value=None)
+
+job_sites = [
+"https://builtin.com/jobs",
+"https://workassist.in/",
+"https://www.instahyre.com/",
+"https://cutshort.io/",
+"https://www.workatastartup.com/",
+"https://wellfound.com/jobs",
+"https://unstop.com/job-portal",
+"https://talent500.co/",
+"https://expertia.ai/jobs",
+"https://www.ambitionbox.com/jobs",
+"https://apna.co/",
+"https://www.uplers.com/talent",
+"https://hiring.cafe/",
+"https://jobs.weekday.works/?jobsTab=search"
+             
+]
+
+t = 1
+for i in range(0,len(job_sites),5):
+    # st.write(i)
+    s = job_sites[i:i+5]
+    final_txt = "https://www.google.com/search?q=" + txt + " (site:"+" OR site:".join(s)+")"
+    if d:
+        final_txt = final_txt + " after:"+str(d)
+    if txt:
+        st.link_button("Google Link #"+str(t),final_txt)
+        t = t+1
+
+
+
+
+
+st.divider()
 st.header("Best time to search for the job")
 """
 - The best time to search for the job is when you already have it. Or if you are in college, then last semester is the best time to look out for the jobs.
@@ -38,11 +77,6 @@ st.header("Salary Negotiations")
   - I can join early.
   - My current salary is way less than market standard.
 
-"""
-
-st.header("Advanced Job Search Tool")
-"""
-- [Job Search SofA](https://job-search-sofa.replit.app/)
 """
 
 st.header("Job Websites")
@@ -84,4 +118,3 @@ st.header("Communities")
 - [Fishbowl](https://www.fishbowlapp.com/)
 - [Worktogether](https://worktogether.io/)
 """
-
